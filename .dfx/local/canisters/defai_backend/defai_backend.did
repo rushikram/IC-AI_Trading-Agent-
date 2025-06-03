@@ -1,0 +1,4 @@
+type AITradingAgent = 
+ service {
+ };
+service : () -> AITradingAgent
